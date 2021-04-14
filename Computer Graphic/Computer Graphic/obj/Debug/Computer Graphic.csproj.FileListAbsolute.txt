@@ -1,0 +1,10 @@
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\bin\Debug\Computer Graphic.exe.config
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\bin\Debug\Computer Graphic.exe
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\bin\Debug\Computer Graphic.pdb
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\obj\Debug\Computer Graphic.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\obj\Debug\Computer_Graphic.Form1.resources
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\obj\Debug\Computer_Graphic.Properties.Resources.resources
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\obj\Debug\Computer Graphic.csproj.GenerateResource.cache
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\obj\Debug\Computer Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\obj\Debug\Computer Graphic.exe
+C:\Users\Dasha\source\repos\Computer Graphic\Computer Graphic\obj\Debug\Computer Graphic.pdb
